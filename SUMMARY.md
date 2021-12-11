@@ -1,12 +1,11 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
+* [What is the Blockchain Technology Club?](README.md)
 
 ## Guides
 
 * [Creating your first project](guides/creating-your-first-project.md)
 * [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
 
 ## Fundamentals
 
