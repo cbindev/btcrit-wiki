@@ -17,3 +17,13 @@ Founded on {date}, the Rochester Institute of Technology Blockchain Technology C
 
 Our mission is to educate students about blockchain technology and explore its potential implications for society. Blockchain technology is rapidly bringing finance, supply chain logistics, voting, and more into the decentralized digital age. We aim to make it as easy to understand as possible, so that everyone can participate. Our members are developers, miners, traders, and just plain enthusiasts. Come join us!
 
+### Joining the Club
+
+> TL;DR: We're on discord and you can join us here.
+
+The club primarily serves three categories of people:
+
+* Current Undergradute and Graduate students at RIT (all majors welcome)
+* RIT Alumni, Faculty, and Staff
+* Members of the Rochester Community
+

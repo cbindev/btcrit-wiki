@@ -2,17 +2,17 @@
 
 * [What is the Blockchain Technology Club?](README.md)
 
-## Guides
+## 🗓 Meetings and Events <a href="#activity" id="activity"></a>
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
+* [Schedule & Plans](activity/schedule-and-plans.md)
+* [Bitcoin Mining Facility Tour](activity/btcmine.md)
 
-## Fundamentals
+## 📂 Club Resources <a href="#resources" id="resources"></a>
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [Projects](resources/projects.md)
+* [Members](resources/members.md)
+* [Task Lists](resources/task-lists.md)
+* [Tasks](resources/tasks.md)
 
 ## Use Cases
 
