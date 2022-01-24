@@ -5,13 +5,15 @@ description: What we'll be doing in the Spring 2022 Semester
 # Schedule & Plans
 
 {% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+**Next Meeting:** 24 Jan 2021, 6:30pm, GOL-2690 with remote Discord option available.
 {% endhint %}
 
-## The basics
+The club currently meets on a weekly basis on Monday evenings. Meetings normally consist of:
 
-Projects are containers for task lists. Think of them as a library for everything your team needs to get done to complete or ship a project.
+* Discussion of current events and recent developments in the blockchain space&#x20;
+* A presentation on a featured topic or protocol given by a member of the club
+* Design and distribution of an "I showed up and all I got was this NFT" token
 
-## Creating a project
+A tentative schedule is laid out below:
 
-Hit the big '+' button in your sidebar and select 'New Project' from the menu that pops up. Give your project a name, and you're good to go!
+<table><thead><tr><th>Date</th><th>Topic</th><th data-type="rating" data-max="5">Difficulty Level (lower is easier)</th></tr></thead><tbody><tr><td></td><td></td><td>null</td></tr><tr><td></td><td></td><td>null</td></tr><tr><td></td><td></td><td>null</td></tr></tbody></table>
